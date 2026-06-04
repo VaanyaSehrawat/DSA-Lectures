@@ -1,0 +1,4 @@
+Coding: Maths + Recursion +Bit + Array + hashmap + Searching + Linked List
+YT: Careerride 55 Videos quantative aptitude
+Exam 1: Aptitude & Core
+Exam 2: Exam 1 + Code 2 question + 5 debugging questions
